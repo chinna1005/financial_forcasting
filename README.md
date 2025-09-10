@@ -1,4 +1,4 @@
-# financial_forcasting
+# financial_forecasting
 financial Data Analysis &amp; Outlier Cleaning Analyzing sales performance, discounts, and profit trends while tackling real-world data challenges.The key focus was cleaning messy real-world data (currency formats, missing values) and strategically handling outliers to ensure accurate analysis
 # Financial Data Analysis & Outlier Handling
 An end-to-end analysis of financial sales data, focusing on data cleaning, outlier detection, and actionable insights.
